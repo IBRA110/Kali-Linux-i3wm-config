@@ -31,5 +31,8 @@ https://lottalinuxlinks.com/how-to-build-and-install-i3-gaps-on-debian/
 https://github.com/meskarune/i3lock-fancy
 
 
-# if wifi does't work
+# if wifi doesn't work
 https://www.linuxbabe.com/debian/connect-to-wi-fi-from-terminal-on-debian-wpa-supplicant
+
+# if sound doesn't work
+https://forums.debian.net/viewtopic.php?t=151319
